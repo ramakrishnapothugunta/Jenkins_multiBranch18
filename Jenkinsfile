@@ -1,4 +1,4 @@
-node('rk') 
+node('built-in') 
 {
     stage('ContinuousDownload_rk') 
 	{
